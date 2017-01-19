@@ -1,0 +1,12 @@
+{
+    "mode":"client",
+    "agentid":191000,
+    "lpt":4500,
+    "tunnelid":191001,
+    "proxy":"http://cis-india-pitc-bangalorez.proxy.corporate.ge.com:80",
+    "gateway":"wss://3707e230-b36e-4d0f-add1-91068b51f183.run.aws-usw02-pr.ice.predix.io",
+    "hsc":5858,
+    "cid":"analytics_client",
+    "csc":"secret",
+    "uaa.url":"https://51f5859c-f50d-4d15-ac96-055da3bc038c.predix-uaa.run.aws-usw02-pr.ice.predix.io/oauth/token"
+}
