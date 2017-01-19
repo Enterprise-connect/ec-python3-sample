@@ -1,4 +1,4 @@
-# EC Agent library for Python
+# EC Agent library for Python(v1.86_fukuoka)
 #### Python Version
 > Python 3.6.0
 #### Required Libraries
