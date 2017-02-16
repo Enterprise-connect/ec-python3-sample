@@ -12,7 +12,7 @@ logger = logging;
 #Main Execution Command
 _main_exec_command='$command -oa2 "$oa2" -hst "$hst" -csc "$csc" -cid "$cid" -aid "$aid" -tid "$tid" -mod "$mod" -pxy "$pxy" -lpt "$lpt" -hca 3999 -dbg -dur 300';
 data = None;
-_ver = 'v1.86_fukuoka';
+_ver = 'v1.96_fukuoka';
 
 def _getVersion():
         return _ver;
